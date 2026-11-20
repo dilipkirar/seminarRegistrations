@@ -1,0 +1,131 @@
+id,title,country,state,city,university,type,date,status
+SEM-101,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-01-03,Open
+SEM-102,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-01-05,Open
+SEM-103,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-01-07,Open
+SEM-104,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-01-09,Open
+SEM-105,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-01-11,Open
+SEM-106,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-01-13,Open
+SEM-107,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-01-15,Open
+SEM-108,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-01-17,Open
+SEM-109,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-01-19,Open
+SEM-110,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-01-21,Open
+SEM-111,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-02-03,Open
+SEM-112,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-02-05,Open
+SEM-113,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-02-07,Open
+SEM-114,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-02-09,Open
+SEM-115,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-02-11,Closed
+SEM-116,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-02-13,Open
+SEM-117,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-02-15,Open
+SEM-118,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-02-17,Open
+SEM-119,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-02-19,Open
+SEM-120,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-02-21,Open
+SEM-121,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-03-03,Open
+SEM-122,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-03-05,Open
+SEM-123,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-03-07,Open
+SEM-124,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-03-09,Open
+SEM-125,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-03-11,Open
+SEM-126,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-03-13,Open
+SEM-127,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-03-15,Open
+SEM-128,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-03-17,Open
+SEM-129,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-03-19,Open
+SEM-130,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-03-21,Open
+SEM-131,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-04-03,Open
+SEM-132,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-04-05,Open
+SEM-133,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-04-07,Open
+SEM-134,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-04-09,Open
+SEM-135,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-04-11,Closed
+SEM-136,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-04-13,Open
+SEM-137,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-04-15,Open
+SEM-138,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-04-17,Open
+SEM-139,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-04-19,Open
+SEM-140,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-04-21,Open
+SEM-141,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-05-03,Open
+SEM-142,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-05-05,Open
+SEM-143,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-05-07,Open
+SEM-144,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-05-09,Open
+SEM-145,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-05-11,Open
+SEM-146,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-05-13,Open
+SEM-147,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-05-15,Open
+SEM-148,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-05-17,Open
+SEM-149,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-05-19,Open
+SEM-150,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-05-21,Open
+SEM-151,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-06-03,Open
+SEM-152,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-06-05,Open
+SEM-153,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-06-07,Open
+SEM-154,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-06-09,Open
+SEM-155,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-06-11,Closed
+SEM-156,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-06-13,Open
+SEM-157,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-06-15,Open
+SEM-158,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-06-17,Open
+SEM-159,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-06-19,Open
+SEM-160,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-06-21,Open
+SEM-161,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-07-03,Open
+SEM-162,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-07-05,Open
+SEM-163,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-07-07,Open
+SEM-164,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-07-09,Open
+SEM-165,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-07-11,Open
+SEM-166,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-07-13,Open
+SEM-167,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-07-15,Open
+SEM-168,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-07-17,Open
+SEM-169,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-07-19,Open
+SEM-170,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-07-21,Open
+SEM-171,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-08-03,Open
+SEM-172,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-08-05,Open
+SEM-173,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-08-07,Open
+SEM-174,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-08-09,Open
+SEM-175,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-08-11,Closed
+SEM-176,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-08-13,Open
+SEM-177,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-08-15,Open
+SEM-178,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-08-17,Open
+SEM-179,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-08-19,Open
+SEM-180,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-08-21,Open
+SEM-181,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-09-03,Open
+SEM-182,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-09-05,Open
+SEM-183,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-09-07,Open
+SEM-184,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-09-09,Open
+SEM-185,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-09-11,Open
+SEM-186,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-09-13,Open
+SEM-187,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-09-15,Open
+SEM-188,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-09-17,Open
+SEM-189,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-09-19,Open
+SEM-190,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-09-21,Open
+SEM-191,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-10-03,Open
+SEM-192,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-10-05,Open
+SEM-193,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-10-07,Open
+SEM-194,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-10-09,Open
+SEM-195,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-10-11,Closed
+SEM-196,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-10-13,Open
+SEM-197,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-10-15,Open
+SEM-198,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-10-17,Open
+SEM-199,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-10-19,Open
+SEM-200,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-10-21,Open
+SEM-201,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-11-03,Open
+SEM-202,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-11-05,Open
+SEM-203,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-11-07,Open
+SEM-204,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-11-09,Open
+SEM-205,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-11-11,Open
+SEM-206,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-11-13,Open
+SEM-207,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-11-15,Open
+SEM-208,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-11-17,Open
+SEM-209,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-11-19,Open
+SEM-210,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-11-21,Open
+SEM-211,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2026-12-03,Open
+SEM-212,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2026-12-05,Open
+SEM-213,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2026-12-07,Open
+SEM-214,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2026-12-09,Open
+SEM-215,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2026-12-11,Closed
+SEM-216,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2026-12-13,Open
+SEM-217,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2026-12-15,Open
+SEM-218,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2026-12-17,Open
+SEM-219,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2026-12-19,Open
+SEM-220,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2026-12-21,Open
+SEM-221,AI & No-Code Automation Masterclass (Ahmedabad),India,Gujarat,Ahmedabad,GTU,Offline,2027-01-03,Open
+SEM-222,Agentic AI & Autonomous Systems Bootcamp (Pune),India,Maharashtra,Pune,Pune University (SPPU),Online,2027-01-05,Open
+SEM-223,Generative AI & LLM Systems Summit (Mumbai),India,Maharashtra,Mumbai,IIT Bombay,Offline,2027-01-07,Open
+SEM-224,Data Engineering & Real-time Analytics (Bangalore),India,Karnataka,Bangalore,IISc Bangalore,Offline,2027-01-09,Open
+SEM-225,Frontier AI & Deep Learning Symposium (New Delhi),India,Delhi,New Delhi,IIT Delhi,Offline,2027-01-11,Open
+SEM-226,Full-Stack AI Application Development (Hyderabad),India,Telangana,Hyderabad,IIIT Hyderabad,Online,2027-01-13,Open
+SEM-227,Cybersecurity & Defense in AI Era (Chennai),India,Tamil Nadu,Chennai,Anna University,Offline,2027-01-15,Open
+SEM-228,Industrial AI & Machine Vision Conclave (Bhopal),India,Madhya Pradesh,Bhopal,MANIT Bhopal,Offline,2027-01-17,Open
+SEM-229,Edge AI & Embedded Systems Workshop (Indore),India,Madhya Pradesh,Indore,IIT Indore,Online,2027-01-19,Open
+SEM-230,Robotics & Smart Manufacturing Conference (Jaipur),India,Rajasthan,Jaipur,MNIT Jaipur,Offline,2027-01-21,Open
